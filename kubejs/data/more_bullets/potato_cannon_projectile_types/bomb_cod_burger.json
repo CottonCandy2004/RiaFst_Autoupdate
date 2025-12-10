@@ -1,0 +1,16 @@
+{
+    "items": [
+      "kubejs:bomb_cod_burger"
+    ],
+    "reload_ticks": 160,
+    "damage": 20,
+    "knockback": 2,
+    "drag": 0.98,
+    "velocity_multiplier": 0.75,
+    "gravity_multiplier": 1.5,
+    "sound_pitch": 0.1,
+    "affect_radius": 14,
+    "explosion_knockback": 2,
+    "explosion_damage": 40,
+    "penetrate_ratio": 0.1
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "carpetstairsmod:block/floor",
+    "textures": {
+        "particle": "block/acacia_planks",
+        "wool": "block/acacia_planks"
+    }
+}

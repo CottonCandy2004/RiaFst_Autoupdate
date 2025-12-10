@@ -1,0 +1,21 @@
+{
+  "kubejs.ponder.tag.kubejs": "kubejs物品",
+  "kubejs.ponder.tag.kubejs.description": "在服务器中添加的道具或方块",
+  "kubejs.ponder.roller1.header": "搭建并设置扭蛋机",
+  "kubejs.ponder.roller1.text_1": "扭蛋机上需要有存储方块作为奖品来源",
+  "kubejs.ponder.roller1.text_2": "使用抽奖卷右键可以使奖卷绑定到此扭蛋机",
+  "kubejs.ponder.roller1.text_3": "扭蛋机拥有者之外的人可以凭绑定到抽奖卷抽奖",
+  "kubejs.ponder.roller2.header": "把扭蛋机接入机械结构",
+  "kubejs.ponder.roller2.text_1": "当扭蛋机下方有容器时...",
+  "kubejs.ponder.roller2.text_2": "右键会直接将奖品放入下方容器",
+  "kubejs.ponder.seller1.header": "搭建并设置售货机",
+  "kubejs.ponder.seller1.text_1": "售货机上需要有存储方块作为商品来源",
+  "kubejs.ponder.seller1.text_2": "右键可以提高出售的价格",
+  "kubejs.ponder.seller1.text_3": "左键则可以降低",
+  "kubejs.ponder.seller1.text_4": "潜行时左/右键能以更小值增减价格",
+  "kubejs.ponder.seller2.header": "使用售货机购买",
+  "kubejs.ponder.seller2.text_1": "右键售货机查看商品信息",
+  "kubejs.ponder.seller2.text_2": "左键以购买",
+  "kubejs.ponder.seller2.text_3": "消耗物品栏中的实体Δ币，找零自动退回",
+  "kubejs.ponder.seller2.text_4": "Δ币会直接打款到店主账上"
+}

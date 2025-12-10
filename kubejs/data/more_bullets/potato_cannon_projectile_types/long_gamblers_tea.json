@@ -1,0 +1,41 @@
+{
+    "items": [
+      "farmersrespite:long_gamblers_tea"
+    ],
+    "reload_ticks": 10,
+    "damage": 0,
+    "knockback": 0,
+    "drag": 0.95,
+    "velocity_multiplier": 1.5,
+    "gravity_multiplier": 1,
+    "sound_pitch": 0.5,
+    "affect_radius": 3,
+    "penetrate_ratio": 1,
+    "effects":[
+        {
+            "effect":"minecraft:jump_boost",
+            "duration":20,
+            "amplifier":2
+        }
+        ,{
+            "effect":"minecraft:speed",
+            "duration":20,
+            "amplifier":2
+        }
+        ,{
+            "effect":"minecraft:night_vision",
+            "duration":20,
+            "amplifier":0
+        }
+        ,{
+            "effect":"minecraft:resistance",
+            "duration":10,
+            "amplifier":0
+        },
+        {
+            "effect":"minecraft:hunger",
+            "duration":20,
+            "amplifier":29
+        }
+    ]
+}

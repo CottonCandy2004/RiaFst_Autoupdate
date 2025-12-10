@@ -1,0 +1,13 @@
+{
+    "items": [
+      "culturaldelights:tortilla_chips"
+    ],
+    "reload_ticks": 20,
+    "damage": 16,
+    "split":2,
+    "knockback": 1.5,
+    "drag": 0.92,
+    "velocity_multiplier": 2,
+    "gravity_multiplier": 1,
+    "sound_pitch": 5
+}

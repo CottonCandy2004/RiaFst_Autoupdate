@@ -1,0 +1,13 @@
+{
+    "items": [
+      "culturaldelights:corn_cob"
+    ],
+    "reload_ticks": 10,
+    "damage": 9,
+    "split":1,
+    "knockback": 0.5,
+    "drag": 0.97,
+    "velocity_multiplier": 1.5,
+    "gravity_multiplier": 1,
+    "sound_pitch": 1.5
+}

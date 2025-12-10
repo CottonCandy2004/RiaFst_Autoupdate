@@ -1,0 +1,7 @@
+{
+    "parent": "carpetstairsmod:block/carpet_slab",
+    "textures": {
+        "particle": "block/purple_wool",
+        "wool": "block/purple_wool"
+    }
+}

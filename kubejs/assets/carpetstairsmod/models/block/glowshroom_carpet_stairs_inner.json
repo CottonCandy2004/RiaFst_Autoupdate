@@ -1,0 +1,8 @@
+{
+    "parent": "carpetstairsmod:block/inner_stairs",
+    "textures": {
+        "bottom": "extendedmushrooms:block/glowshroom_cap",
+        "top": "extendedmushrooms:block/glowshroom_cap",
+        "side": "extendedmushrooms:block/glowshroom_cap"
+    }
+}

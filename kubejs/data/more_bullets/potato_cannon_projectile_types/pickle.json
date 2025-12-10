@@ -1,0 +1,13 @@
+{
+    "items": [
+      "culturaldelights:pickle"
+    ],
+    "reload_ticks": 40,
+    "damage": 24,
+    "split":1,
+    "knockback": 0,
+    "drag": 0.995,
+    "velocity_multiplier": 2,
+    "gravity_multiplier": 0.25,
+    "sound_pitch": 5
+}

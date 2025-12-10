@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=north": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=east": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=south": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=west": {
+            "model": "contact:block/mailbox_down"
+        }
+    }
+}

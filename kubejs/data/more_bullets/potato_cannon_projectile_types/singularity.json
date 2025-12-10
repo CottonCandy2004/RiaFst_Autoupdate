@@ -1,0 +1,31 @@
+{
+    "items": [
+      "ae2:singularity"
+    ],
+    "reload_ticks": 20,
+    "damage": 0,
+    "knockback": 0,
+    "drag": 0.999,
+    "velocity_multiplier": 0.75,
+    "gravity_multiplier": 0.05,
+    "sound_pitch": 0.01,
+    "affect_radius": 6,
+    "explosion_knockback": -1.5,
+    "explosion_damage": 1,
+    "penetrate_ratio": 1,
+    "effects":[
+        {
+            "effect":"minecraft:slowness",
+            "duration":6,
+            "amplifier":1
+        },{
+            "effect":"minecraft:levitation",
+            "duration":2,
+            "amplifier":0
+        },{
+            "effect":"minecraft:slow_falling",
+            "duration":6,
+            "amplifier":0
+        }
+    ]
+}

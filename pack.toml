@@ -1,0 +1,13 @@
+name = "RiaFst"
+author = "liziluyu"
+version = "3.5.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2efcc9ae57f25e65b165ee41ece4d493f81cfceebdc674842be24a4616b0cc94"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

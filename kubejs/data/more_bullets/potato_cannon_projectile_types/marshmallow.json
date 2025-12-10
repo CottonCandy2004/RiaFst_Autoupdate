@@ -1,0 +1,24 @@
+{
+    "items": [
+      "create_confectionery:marshmallow"
+    ],
+    "reload_ticks": 10,
+    "damage": 2,
+    "split":2,
+    "knockback": 3,
+    "drag": 0.9,
+    "velocity_multiplier": 2,
+    "gravity_multiplier": 1,
+    "sound_pitch": 0.5,
+    "affect_radius": 5,
+    "explosion_knockback": 2,
+    "explosion_damage": 0,
+    "penetrate_ratio": 0.75,
+    "effects":[
+      {
+            "effect":"minecraft:slowness",
+            "duration":5,
+            "amplifier":3
+        }
+    ]
+}

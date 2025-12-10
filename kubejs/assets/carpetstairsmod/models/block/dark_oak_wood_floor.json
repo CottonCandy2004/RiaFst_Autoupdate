@@ -1,0 +1,7 @@
+{
+    "parent": "carpetstairsmod:block/floor",
+    "textures": {
+        "particle": "block/dark_oak_planks",
+        "wool": "block/dark_oak_planks"
+    }
+}

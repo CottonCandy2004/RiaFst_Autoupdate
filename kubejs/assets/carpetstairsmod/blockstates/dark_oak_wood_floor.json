@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "carpetstairsmod:block/dark_oak_wood_floor" },
+		"half=bottom": { "model": "carpetstairsmod:block/dark_oak_wood_slab" }
+    }
+}

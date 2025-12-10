@@ -1,0 +1,13 @@
+name = "Crock Pot"
+filename = "CrockPot-1.20.1-1.0.1-release.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "47319039c6693624d669e04ab15f7909a0ae9656"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5458905
+project-id = 404523

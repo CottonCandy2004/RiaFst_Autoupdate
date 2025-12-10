@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "kubejs:block/tea_bush_green"
+    },
+    "age=1": {
+      "model": "kubejs:block/tea_bush_yellow"
+    },
+    "age=2": {
+      "model": "kubejs:block/tea_bush_brown"
+    },
+    "age=3": {
+      "model": "kubejs:block/tea_bush_black"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "parent": "carpetstairsmod:block/carpet_slab",
+    "textures": {
+        "particle": "extendedmushrooms:block/poisonous_mushroom_planks",
+        "wool": "extendedmushrooms:block/poisonous_mushroom_planks"
+    }
+}

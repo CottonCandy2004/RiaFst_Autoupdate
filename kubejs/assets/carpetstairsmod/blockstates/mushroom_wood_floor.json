@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "carpetstairsmod:block/mushroom_wood_floor" },
+		"half=top": { "model": "carpetstairsmod:block/mushroom_wood_slab" }
+    }
+}

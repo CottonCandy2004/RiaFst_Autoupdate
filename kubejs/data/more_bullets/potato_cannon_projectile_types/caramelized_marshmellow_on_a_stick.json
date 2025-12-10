@@ -1,0 +1,13 @@
+{
+    "items": [
+      "create_confectionery:caramelized_marshmellow_on_a_stick"
+    ],
+    "reload_ticks": 30,
+    "damage": 20,
+    "split":1,
+    "knockback": 0.1,
+    "drag": 0.98,
+    "velocity_multiplier": 1.5,
+    "gravity_multiplier": 0.5,
+    "sound_pitch": 3
+}

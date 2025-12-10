@@ -1,0 +1,18 @@
+{
+    "music.never_gonna_give_you_up": {
+        "sounds": [
+            {
+                "name": "kubejs:never_gonna_give_you_up",
+                "stream": true
+            }
+        ]
+    },
+    "guitar_sound":{
+        "sounds": [
+            {
+                "name": "kubejs:guitar_sound",
+                "stream": false
+            }
+        ]
+    }
+}

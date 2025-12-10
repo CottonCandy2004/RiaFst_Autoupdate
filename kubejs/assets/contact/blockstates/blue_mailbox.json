@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "facing=north,half=top": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=east,half=top": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=south,half=top": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=west,half=top": {
+            "model": "contact:block/mailbox_down"
+        },
+        "facing=north,half=bottom": {
+            "model": "contact:block/closed_mailbox_up"
+        },
+        "facing=south,half=bottom": {
+            "model": "contact:block/closed_mailbox_up",
+            "y": 180
+        },
+        "facing=west,half=bottom": {
+            "model": "contact:block/closed_mailbox_up",
+            "y": 270
+        },
+        "facing=east,half=bottom": {
+            "model": "contact:block/closed_mailbox_up",
+            "y": 90
+        }
+
+    }
+}

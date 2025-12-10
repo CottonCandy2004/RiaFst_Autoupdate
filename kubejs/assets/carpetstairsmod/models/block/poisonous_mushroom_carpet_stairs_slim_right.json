@@ -1,0 +1,8 @@
+{
+    "parent": "carpetstairsmod:block/stairs_slim_right",
+    "textures": {
+        "bottom": "extendedmushrooms:block/poisonous_mushroom_cap",
+        "top": "extendedmushrooms:block/poisonous_mushroom_cap",
+        "side": "extendedmushrooms:block/poisonous_mushroom_cap"
+    }
+}
