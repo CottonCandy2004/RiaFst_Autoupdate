@@ -3,6 +3,6 @@ filename = "torchslabmod-1.20.1_0.1i.jar"
 side = "both"
 
 [download]
-url = "https://riatest.oss-cn-shanghai.aliyuncs.com/torchslabmod-1.20.1_0.1i.jar"
+url = "http://igniscloud.icu:6080/mod-resources/torchslabmod-1.20.1_0.1i.jar"
 hash-format = "sha256"
 hash = "cb487ae65169210126100ccc895c49dc57008ca1423677595fca35fb88b96bc6"
