@@ -5127,7 +5127,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas.pw.toml"
-hash = "ba8ebdd01fa331dc8dc20cb649ebd085f08c582aaa88377aa414ba9678a03a47"
+hash = "34a9dc722c973195882b5e1a589d7d4629b34bd658ea519208587f97da0eb1d0"
 metafile = true
 
 [[files]]
@@ -5347,7 +5347,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ee877f449979131d482135825bdea92257206e52ac9933b446333e335b4a8073"
+hash = "374a0dc1bcea4e78f607c60d1438d1b7d85bb08511f81f9c0d3fd87b282eef62"
 metafile = true
 
 [[files]]
@@ -5392,7 +5392,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "0edc2b9d68e308c820489f8bb378f1eb540ba684ac23be242fcc4655f05ff423"
+hash = "d09e5a30b4026c19c9cc0b137a86036a8cd51143482b784cf3c1501bc4b2564d"
 metafile = true
 
 [[files]]
@@ -5422,7 +5422,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
+hash = "63620e5b2e56572f50eef0cfe07a490070ad179d264af7dbf2cecf1f4d0b93f2"
 metafile = true
 
 [[files]]
@@ -5487,7 +5487,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "984992f9214094eaab3beb1ae7600c76fc793c27696192f02a8f35ca93803552"
+hash = "de261573a21d6a02ca48433e55188f2ebd83eafb0d7ff3a19d5c30bc20bf135c"
 metafile = true
 
 [[files]]
@@ -5557,12 +5557,12 @@ metafile = true
 
 [[files]]
 file = "mods/lan-server-properties.pw.toml"
-hash = "989acf6c5475a0e0587c0c9bb4744331663d363eea2e935b327bfe022fbae67f"
+hash = "76751e46f68fc7c1d1012aa993e8253a548514a8ee098aa2afbe68be707b8ca0"
 metafile = true
 
 [[files]]
 file = "mods/libipn.pw.toml"
-hash = "ee79f551b7aede4b923fc6df137c4ebbb1dd21eb80a3aaba6da8be93ac5010e7"
+hash = "c488b7751257a6c5eb28716146fc118a66a3c461d0e1fa18ad2c249feebe8470"
 metafile = true
 
 [[files]]
