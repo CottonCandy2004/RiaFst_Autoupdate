@@ -15,4 +15,4 @@ version = "xyB6Pr5e"
 
 [option]
 optional = true
-default = false
+default = true

@@ -5172,7 +5172,7 @@ metafile = true
 
 [[files]]
 file = "mods/caramel-chat.pw.toml"
-hash = "d3d1a83df141f99cedf965d4c7f2f24470abd1b648332ae938b2e3dab95122d4"
+hash = "b1c2d60feb5cce1235ea623c882af3e46b26660ad9afff2478735859e41aae1a"
 metafile = true
 
 [[files]]
@@ -5422,7 +5422,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.pw.toml"
-hash = "63620e5b2e56572f50eef0cfe07a490070ad179d264af7dbf2cecf1f4d0b93f2"
+hash = "f01ef46b55d176a510df8ae1ff4f2e82be6dda14ca42b237dd1c5fa894b2dea4"
 metafile = true
 
 [[files]]
