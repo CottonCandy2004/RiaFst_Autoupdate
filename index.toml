@@ -5484,7 +5484,7 @@ metafile = true
 
 [[files]]
 file = "mods/jadeaddons-5-3-1.pw.toml"
-hash = "81e0ad309034e235102ccbc2b74f0105705848ec924de8967aac383bce9bd30f"
+hash = "b5e48b9401dafeb93b76b94b5ee468ae0ff639aef5ee4ec0c2ea133d0aa5a8e8"
 metafile = true
 
 [[files]]
@@ -5684,7 +5684,7 @@ metafile = true
 
 [[files]]
 file = "mods/probejs.pw.toml"
-hash = "0300681fb361bd11b805c75351e2538ec838f21be9d98de5c82c424ddde8a2ae"
+hash = "f494105d24cd32c3375e1aad83f15dca575dad1f4570845d2c3318428258324c"
 metafile = true
 
 [[files]]
