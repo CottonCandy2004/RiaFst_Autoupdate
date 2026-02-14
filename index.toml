@@ -3176,6 +3176,10 @@ file = "kubejs/assets/kubejs/blockstates/coffee_cake.json"
 hash = "39b63c3aaef463ae9cc1703053d64404a6349f5f7c33df74ea08fc2ceb4c44eb"
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/cooked_dumpling_plate.json"
+hash = "00b17cacdc2e85ecd0ecbf58f85c889526ffad62051bcc8cb2f77c9f939d9c1d"
+
+[[files]]
 file = "kubejs/assets/kubejs/blockstates/hurricane_glass.json"
 hash = "a23b9c960bc2baca22c461be6720608c46066a9c0b2fba4ca61b15d332f6627b"
 
@@ -3524,6 +3528,42 @@ file = "kubejs/assets/kubejs/models/block/coin1.json"
 hash = "87ae04306a3cd9528c7cffc9d34b721a10a0b2382d9ae1118bfcc7a5f0ed06af"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate.json"
+hash = "9eda6151554f0985dfa701300b1a1044884623035327d5d2038f8873cbe25595"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_1.json"
+hash = "717b0f68a0629b7b829802f8ef4a739101007d3bd1398180beaa73e5b41c0bbe"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_2.json"
+hash = "5350e7ff95b1bf1501fb1df42f65e0280d637b05d3675433425b0d37386a3795"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_3.json"
+hash = "b76681e91a22873b515756499b329337f74c327b51974ffd23e7f46c8f44117a"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_4.json"
+hash = "4a5b5f56ab78ed8bf0cb57c4cea5652881b633f4426778eb942d159f2e82dfb6"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_5.json"
+hash = "6f30a1ab361c03d7126383171059d3306b374bed49f1c152d427a4fae08a3136"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_6.json"
+hash = "79f55fd93211d25fcf7635bd8a63d6735e8f8cceab4fbe9c5d75f5aae5f040f5"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_7.json"
+hash = "2d3a069caa7d89d7787ff90f84ee6ae3de512416cc695087dd93665e55c0226c"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/cooked_dumpling_plate_8.json"
+hash = "ebbbd5470beaec8af910874e9424de7426721995bafa71bd306f47335fa66221"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/block/copper_cooking_pot.json"
 hash = "d90f6a601572c3227eb825087fa719fd8d89f6a6c58c60361e7a43a09b3250d1"
 
@@ -3734,6 +3774,10 @@ hash = "bf680f9d83d13565b9b8c05566de52cad4dfb151c1778b0d272f203c4a28335a"
 [[files]]
 file = "kubejs/assets/kubejs/models/item/coffee_cake.json"
 hash = "973a51b0a87d7ada3637e6bbcf42715ddd311bb1f5414584781e512d53302366"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/cooked_dumpling_plate.json"
+hash = "e9c8f838ac22a77c6969386091edd37bbe69cb08cb5ca05686e9a73cd56ccfa9"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/drum_808.json"
@@ -3988,6 +4032,10 @@ file = "kubejs/assets/kubejs/textures/block/distiller.png"
 hash = "6f2a1510505300f8faa721607f723a7814d89cf13b79db70afb03d9eb3b0f043"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/dumpling.png"
+hash = "04c2813ec68fe1717b1d9cdb7ba652aacb77901c2b3590a0527306d262bdb2b3"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/event_block_1.png"
 hash = "f1e51f89ae3e5095804c01853c26a68adbc5006d90b94f9f87d9b7d3e42c3b8b"
 
@@ -4070,6 +4118,10 @@ hash = "e9b8025fde1b09b0a4d2a38427b04f98f28a593045be6d177eb2b29164c872b0"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/pizza_margarita.png"
 hash = "260c820ffbece998a774094333b21ee3197439f6220eb206ebd78478556b0bea"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/plate.png"
+hash = "5eb7b7bc02f3845c9c3db92a87a5ed078ece5b300a0a957b43db6564cd36c298"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/pork_pizza.png"
@@ -4264,6 +4316,14 @@ file = "kubejs/assets/kubejs/textures/item/cod_burger.png"
 hash = "78646ed0995a6f3b11d110c755896b6773871170a81f09e41f524f61487bf3a2"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/cooked_dumpling.png"
+hash = "1d5b1633f51969d0aec8c81348716dcd5f98fe56e18f897bd985e7f9c24ae3bc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/cooked_dumpling_plate.png"
+hash = "293dbcd99fa463eda1c120a93331083ee6d4977184efdc1a66fad95ce863723d"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/copter.png"
 hash = "d105b8ae2a3f6469f8920c2dc24e24860d264493e1eec6ab7207314ecd790cb2"
 
@@ -4326,6 +4386,10 @@ hash = "98cdf7d3fce22d3528ec72e6287914d24844ad985cc3b5f8e65de1a1081b2324"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/drum2.png.mcmeta"
 hash = "e1b4c2a8643d855a1ea1982488b0ba34066e7a06e00b120374ed82b647e3f3d1"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/dumpling_wrapper.png"
+hash = "7f655e006640e61a3409218c152730f0d4bcfc53200bec81a5d544f889f5dbae"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/emerald_nugget.png"
@@ -4478,6 +4542,14 @@ hash = "6c66fd07c49d095b311c725a11053b043bc1071fc15b9a2a109aa268f2b8cbd9"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/raw_apple_pizza.png"
 hash = "1ecac83ad65f1c661d13733da3487b5f1c80c07c1f449339425ba0753c371c1a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/raw_dumpling.png"
+hash = "27815017d325e6abd369e318c409230883244a69d56339254a42884639d2dfcb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/raw_dumpling_plate.png"
+hash = "16ab869dd2afdc021dbae17d20690ed59b25b04281eb5754b0af3fb978711110"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/raw_pizza_margarita.png"
@@ -4721,7 +4793,7 @@ hash = "34e412b7e52000f99e21479343496c32ff9d98ac8fd24732273c1126e1c48d02"
 
 [[files]]
 file = "kubejs/client_scripts/tooltips.js"
-hash = "d0aca8906a650ba6b60a606ce804446198fd757357543c91c53c783d06e4b648"
+hash = "2585c918d4d57db6396ef21b93b4dc72fc452fe3d1797eadbd9ed90a70b74c47"
 
 [[files]]
 file = "kubejs/data/fstwines/recipes/call_of_tahiti.json"
@@ -4888,6 +4960,10 @@ file = "kubejs/server_scripts/feature/compressed_chick.js"
 hash = "9e0173615a6149fe07349f9fd270eca70b9ef1f799b4009b49030fd479ed803b"
 
 [[files]]
+file = "kubejs/server_scripts/feature/dumpling_making.js"
+hash = "b16a0755d6a7177500968177d7d387c669f08260298301adb2dc5c6329c697bd"
+
+[[files]]
 file = "kubejs/server_scripts/feature/food_events.js"
 hash = "262c58c512cbc763afcab3f3a60d3b00d27cfaa6729e4e20cc80c212ee376e09"
 
@@ -5037,7 +5113,7 @@ hash = "2dab6018c56502859de8c67b7122d7e6bfcec62c1711e660caf2b203525fc706"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/add_recipes.js"
-hash = "62325d611412857c1e5e9f32ae422ce0e608f9db00042d1c9bc919a903c4d767"
+hash = "8c7de210ff029b48e254bca9c0439fb3530b7e8accfc96a83a8424d1cda3845a"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/add_tags.js"
@@ -5045,7 +5121,11 @@ hash = "9b447809c9dc5b86d1140d52e047394aaed3756677197e6a83dfa4200f242946"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/cooking.js"
-hash = "f444f9ec5be5f28f86a8d5f5d366db094f97916739e05a5ecbf93c82391cfff0"
+hash = "631e1657e83c90be82f92c798e36764960be163d7f4f1c5470bd4d03d820b1f8"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/dumplings.js"
+hash = "b1485f97be7d8cc779b0a4948522245f66940886453eb161ef121a622ac65dc7"
 
 [[files]]
 file = "kubejs/server_scripts/recipes/remove_recipes.js"
@@ -5117,7 +5197,7 @@ hash = "92c8114d233bbd11a6b2b06e955a1e5cea37c6d2735f9757008cc78574a7d196"
 
 [[files]]
 file = "kubejs/startup_scripts/springFestival.js"
-hash = "428dd798cd5a52f0db8e9198feff4781a93d0c43b2f12d79f8aa785c7f510504"
+hash = "2c47a923895dd6cf216cfa442394fb0a54b82d656cde037bfd65f687e86ea72f"
 
 [[files]]
 file = "kubejs/startup_scripts/supplementaries_startup.js"
